@@ -1,9 +1,4 @@
 # Train Ticket Reservation System 
-<!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
-- Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
-<!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
-<!-- - Login Credentials: admin/admin -->
-
 ### About:
 This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
 ### Online Train Information and Reservation
@@ -54,15 +49,6 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - JDBC
 - Servlet
 - Oracle ( SQL )
-
-### ==== Software And Tools Required ======
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : Oracle (SQL) / SQL PLUS [https://www.youtube.com/watch?v=ZYOqykEDSqU]
-- : Oracle SQL Developer [https://www.youtube.com/watch?v=2a1JKIGVtd0]
 
 ### ========== Dummy Database Initialization ===========
 
@@ -220,6 +206,3 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 <img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
 
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
